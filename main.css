@@ -19,6 +19,7 @@
         padding: 0;
         overflow: hidden;
         background-color: #333;
+	font-family: "Comic Sans MS", cursive, sans-serif;
        }
     li {
         float: left;
@@ -38,4 +39,7 @@
 
     .home {
         background-color:#4CAF50;
+       }
+    title {
+	font-family:"Comic Sans MS", cursive, sans-serif;
        }
