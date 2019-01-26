@@ -58,4 +58,5 @@ p.sadies {
 	position: absolute;
     bottom:75px;
     left:75px;
+	float: right;
 }
