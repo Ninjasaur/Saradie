@@ -49,11 +49,6 @@ p.slogan {
 }
 /* This is trying stuff out for the heart animation */
 
-body{
-  padding:100px 0;
-  background-color:#c33
-}
-
 #heart {
     position: relative;
     width: 100px;
