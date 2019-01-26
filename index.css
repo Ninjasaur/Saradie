@@ -43,30 +43,3 @@
      .pre {
 	     font-family:"Comic Sans MS", cursive, sans-serif;
 }
-
-   p.newcontact {
-	   font-family:"Comic Sans MS", cursive, sans-serif;
-}
-p.newabout {
-	font-family:"Comic Sans MS", cursive, sans-serif;
-}
-	   a.content {
-        background-color: #FF1493;
-       }
-          a.contact {
-        background-color: #FF1493;
-       }
-        a.about {
-        background-color: #FF1493;
-       }
-
-   a:hover:not(.content) {
-        background-color: #111;
-       }
-
-    a.content {
-        background-color: #FF1493;
-       }
-p.newcontent {
-	font-family: "Comic Sans MS", cursive, sans-serif;
-}
