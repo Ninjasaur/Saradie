@@ -40,12 +40,9 @@
     a.about {
         background-color: #FF1493;
        }
-     p.sarah1 {
-	     font-family:"Comic Sans MS", cursive, sans-serif;
-}
 img {
 	float: left;
 }
-h2.sarah p.sarah1 h2.sadie p.sadie1 {
+.sarah .sarah1 .sadie .sadie1 {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
