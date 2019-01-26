@@ -43,3 +43,9 @@
 p.newcontent {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
+p.slogan {
+	text-align: center;
+	color: #F8F8FF;
+	font-family: "Courier New", Courier, monospace;
+}
+
