@@ -43,3 +43,7 @@
      .pre {
 	     font-family:"Comic Sans MS", cursive, sans-serif;
 }
+
+p.slogan {
+	text-align: center;
+}
