@@ -40,7 +40,7 @@
     a.about {
         background-color: #FF1493;
        }
-      img {
+      #img1 {
 	float: left;
 }
       h2.sarah {
@@ -53,4 +53,9 @@
 }
 p.sadies {
 	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#img2 {
+	position:fixed;
+    bottom:0px;
+    left:50%;
 }
