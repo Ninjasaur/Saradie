@@ -45,8 +45,12 @@
 }
       h2.sarah {
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	      color: #FF1493;
 }
      h2.sadie {
 	     font-family:"Comic Sans MS", cursive, sans-serif;
+}    p.sarahs {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+p.sadies {
+	font-family:"Comic Sans MS", cursive, sans-serif;
 }
