@@ -1,4 +1,4 @@
-   div.div {
+  .div {
         background-color: #D3D3D3;
 	height: 900px;
 	width: 1200px;
@@ -120,6 +120,6 @@ p.slogan {
     transform: scale( .75 );
   }
 }
-div.heart {
+.heart {
 	background-color: #333
 }
