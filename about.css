@@ -55,6 +55,7 @@ p.sadies {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
 #img2 {
+	position: relative;
     bottom:75px;
     left:75px;
 }
