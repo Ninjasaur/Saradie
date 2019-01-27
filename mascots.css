@@ -40,4 +40,13 @@
     a.mascots {
         background-color: #FF1493;
        }
+h2.mascot1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#img1 {
+	float: left;
+}
+#img2 {
+	float: right;
+}
 
