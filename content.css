@@ -40,6 +40,11 @@
     a.content {
         background-color: #FF1493;
        }
-p.newcontent {
+h1.main {
+  color: black;
+  -webkit-text-fill-color: white; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 	font-family: "Comic Sans MS", cursive, sans-serif;
+}
 }
