@@ -65,36 +65,38 @@
 }
 
 .fa-beat {
-  animation:fa-beat 5s ease infinite;
+  animation: fa-beat 5s ease infinite;
 }
 @keyframes fa-beat {
   0% {
-    transform:scale(1);
+    transform: scale(.5);
   }
   5% {
-    transform:scale(1.25);
+    transform: scale(.75);
   }
   20% {
-    transform:scale(1);
+    transform: scale(.5);
   }
   30% {
-    transform:scale(1);
+    transform: scale(.5);
   }
   35% {
-    transform:scale(1.25);
+    transform: scale(.75);
   }
   50% {
-    transform:scale(1);
+    transform: scale(.5);
   }
   55% {
-    transform:scale(1.25);
+    transform: scale(.75);
   }
   70% {
-    transform:scale(1);
+    transform: scale(.5);
   }
 }
 
-
 .heart {
-  color:red;
+  color: red;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
 }
+
