@@ -55,7 +55,28 @@
 	p.ivy {
 		font-family: "Comic Sans MS", cursive, sans-serif;
 	}
-	a.purple a.pink {
+	a.purple  {
+		color: #FF1493;
+	}
+a.pink {
+		color: #FF1493;
+	}
+a.orange {
+		color: #FF1493;
+	}
+a.yellow {
+		color: #FF1493;
+	}
+a.blue {
+		color: #FF1493;
+	}
+a.black {
+		color: #FF1493;
+	}
+a.silver {
+		color: #FF1493;
+	}
+a.gold {
 		color: #FF1493;
 	}
 	
