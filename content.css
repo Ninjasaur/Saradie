@@ -46,5 +46,6 @@ h1.main {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 50px;
 }
 }
