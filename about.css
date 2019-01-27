@@ -58,3 +58,6 @@ p.sadies {
 p.ivys {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
+a.pink a.orange a.blue a.purple {
+	color: #FF1493;
+}
