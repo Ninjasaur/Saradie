@@ -40,9 +40,7 @@
     a.about {
         background-color: #FF1493;
        }
-      #img1 {
-	float: left;
-}
+
       h2.sarah {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
@@ -52,5 +50,11 @@
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
 p.sadies {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+    h2.ivy {
+	    font-family:"Comic Sans MS", cursive, sans-serif;
+}
+p.ivys {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
