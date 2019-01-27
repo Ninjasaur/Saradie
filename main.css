@@ -41,7 +41,7 @@
         background-color: #FF1493;
        }
 
-h1.neon {
+.neon {
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
@@ -60,4 +60,7 @@ h1.neon {
     0 0 90px #0ff,
     0 0 100px #0ff,
     0 0 150px #0ff;
+}
+  .main { 
+	  font-family: "Comic Sans MS", cursive, sans-serif;
 }
