@@ -42,10 +42,24 @@
        }
     h2.like {
 	    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-p.email {
+      }
+      p.email {
 	font-family: "Comic Sans MS", cursive, sans-serif;
-}
+     }
+        p.sarah {
+		font-family: "Comic Sans MS", cursive, sans-serif;
+	}
+	p.sadie {
+		font-family: "Comic Sans MS", cursive, sans-serif;
+	}
+	p.ivy {
+		font-family: "Comic Sans MS", cursive, sans-serif;
+	}
+	a.pink {
+		color: #FF1493;
+	}
+
+	
 
 h2.glow {
 	font-family: "Comic Sans MS", cursive, sans-serif;
@@ -63,19 +77,5 @@ h2.glow {
    to {
     text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
   }
-	p.sarah {
-		font-family: "Comic Sans MS", cursive, sans-serif;
-	}
-	p.sadie {
-		font-family: "Comic Sans MS", cursive, sans-serif;
-	}
-	p.ivy {
-		font-family: "Comic Sans MS", cursive, sans-serif;
-	}
-	a.pink {
-		color: #FF1493;
-	}
-
-	
 	
 	
