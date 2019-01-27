@@ -47,3 +47,12 @@ p.email {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
+h2.glow {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
