@@ -50,16 +50,16 @@
 }
 
 .neon {
-  color: #FF1493;
+  color: #fff;
   text-shadow:
-    0 0 5px #fff,
-    0 0 10px #fff,
-    0 0 20px #fff,
-    0 0 40px #0ff,
-    0 0 80px #0ff,
-    0 0 90px #0ff,
-    0 0 100px #0ff,
-    0 0 150px #0ff;
+    0 0 5px #FF1493,
+    0 0 10px #FF1493,
+    0 0 20px #FF1493,
+    0 0 40px #FF1493,
+    0 0 80px #FF1493,
+    0 0 90px #FF1493,
+    0 0 100px #FF69B4,
+    0 0 150px #FF69B4;
 }
   .main { 
 	  font-family: "Comic Sans MS", cursive, sans-serif;
