@@ -63,19 +63,20 @@
   .main { 
 	  font-family: "Comic Sans MS", cursive, sans-serif;
 }
-
 .heart {
-  color: white;
-  font-family: "Comic Sans MS", cursive, sans-serif;
-  text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .hearts {
-	font-size: 150px;
-	color: red;
-	animation: beat .25s infinite alternate;
-	transform-origin: center;
+  fill: red;
+  position: relative;
+  top: 5px;
+  width: 50px;
+  animation: pulse 1s ease infinite;
 }
-@keyframes beat{
-	to { transform: scale(1.4); }
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.3); }
+  100% { transform: scale(1); }
 }
