@@ -13,7 +13,7 @@
 	text-shadow: 3px 2px white;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 	    }
-    ul.nav {
+    ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
@@ -21,11 +21,11 @@
         background-color: #333;
 	font-family: "Comic Sans MS", cursive, sans-serif;
        }
-    li.navi {
+    li {
         float: left;
        }
 
-    li a.home li a.content li a.contact li a.about li a.mascots {
+    li a {
         display: block;
         color: white;
         text-align: center;
@@ -65,16 +65,7 @@ h2.glow {
   }
 	p.sarah {
 		font-family: "Comic Sans MS", cursive, sans-serif;
-	}
-	h2.sadie {
-		font-family: "Comic Sans MS", cursive, sans-serif;
-	}
-	h2.ivy {
-		font-family: "Comic Sans MS", cursive, sans-serif;
-	}
-	ul.sarahs {
-		list-style-type: square;
-	}
+
 	
 	
 	
