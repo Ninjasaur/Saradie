@@ -49,4 +49,12 @@ h2.mascot1 {
 #img2 {
 	float: right;
 }
+.slogan {
+	text-align: center;
+	color: #F8F8FF;
+	font-family: "Courier New", Courier, monospace;
+}
+.humans {
+	color: #F8F8FF;
+}
 
