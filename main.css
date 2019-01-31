@@ -77,6 +77,7 @@
   border-radius: 0 0 0 10px;
   transform: rotate(-45deg);
   animation: pulse 1s infinite;
+	left: 50%;
 }
 .heart::before,
 .heart::after {
@@ -97,18 +98,18 @@
 }
 @keyframes pulse {
   0%, 20% {
-    transform: rotate(-45deg) scale(1);
+    transform: rotate(-45deg) scale(.25);
   }
   30% {
-    transform: rotate(-45deg) scale(1.2);
+    transform: rotate(-45deg) scale(.3);
   }
   50% {
-    transform: rotate(-45deg) scale(1);
+    transform: rotate(-45deg) scale(.25);
   }
   60% {
-    transform: rotate(-45deg) scale(1.1);
+    transform: rotate(-45deg) scale(.3);
   }
   70%, 100% {
-    transform: rotate(-45deg) scale(1);
+    transform: rotate(-45deg) scale(.25);
   }
 }
