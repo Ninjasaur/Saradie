@@ -68,48 +68,6 @@
 	color: #F8F8FF;
 	font-family: "Courier New", Courier, monospace;
 }
-.heart {
-  position: relative;
-  display: block;
-  width: 100px;
-  height: 100px;
-  background: purple;
-  border-radius: 0 0 0 10px;
-  transform: rotate(-45deg);
-  animation: pulse 1s infinite;
-	left: 50%;
-}
-.heart::before,
-.heart::after {
-  position: absolute;
-  content: "";
-  width: 100px;
-  height: 100px;
-  background: purple;
-  border-radius: 50%;
-}
-.heart::before {
-  top: -50px;
-  left: 0;
-}
-.heart::after {
-  top: 0;
-  right: -50px;
-}
-@keyframes pulse {
-  0%, 20% {
-    transform: rotate(-45deg) scale(.25);
-  }
-  30% {
-    transform: rotate(-45deg) scale(.3);
-  }
-  50% {
-    transform: rotate(-45deg) scale(.25);
-  }
-  60% {
-    transform: rotate(-45deg) scale(.3);
-  }
-  70%, 100% {
-    transform: rotate(-45deg) scale(.25);
-  }
+.humans {
+	color: #F8F8FF;
 }
