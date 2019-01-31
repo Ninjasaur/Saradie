@@ -68,45 +68,47 @@
 	color: #F8F8FF;
 	font-family: "Courier New", Courier, monospace;
 }
-.heart{
-    position: relative;
-    width: 100px;
-    height: 90px;
-    float: left;
+.heart {
+  position: relative;
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: purple;
+  border-radius: 0 0 0 10px;
+  transform: rotate(-45deg);
+  animation: pulse 1s infinite;
 }
-.heart:before,
-.heart:after{
-    position: absolute;
-    content: "";
-    left: 50px;
-    top: 0;
-    width: 50px;
-    height: 80px;
-    background: #purple;
-    -moz-border-radius: 50px 50px 0 0;
-    border-radius: 50px 50px 0 0;
-    -webkit-transform: rotate(-45deg);
-       -moz-transform: rotate(-45deg);
-        -ms-transform: rotate(-45deg);
-         -o-transform: rotate(-45deg);
-            transform: rotate(-45deg);
-    -webkit-transform-origin: 0 100%;
-       -moz-transform-origin: 0 100%;
-        -ms-transform-origin: 0 100%;
-         -o-transform-origin: 0 100%;
-            transform-origin: 0 100%;
+.heart::before,
+.heart::after {
+  position: absolute;
+  content: "";
+  width: 100px;
+  height: 100px;
+  background: purple;
+  border-radius: 50%;
 }
-.heart:after{
-    left: 0;
-    -webkit-transform: rotate(45deg);
-       -moz-transform: rotate(45deg);
-        -ms-transform: rotate(45deg);
-         -o-transform: rotate(45deg);
-            transform: rotate(45deg);
-    -webkit-transform-origin: 100% 100%;
-       -moz-transform-origin: 100% 100%;
-        -ms-transform-origin: 100% 100%;
-         -o-transform-origin: 100% 100%;
-            transform-origin :100% 100%;
+.heart::before {
+  top: -50px;
+  left: 0;
 }
-
+.heart::after {
+  top: 0;
+  right: -50px;
+}
+@keyframes pulse {
+  0%, 20% {
+    transform: rotate(-45deg) scale(1);
+  }
+  30% {
+    transform: rotate(-45deg) scale(1.2);
+  }
+  50% {
+    transform: rotate(-45deg) scale(1);
+  }
+  60% {
+    transform: rotate(-45deg) scale(1.1);
+  }
+  70%, 100% {
+    transform: rotate(-45deg) scale(1);
+  }
+}
