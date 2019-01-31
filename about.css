@@ -70,3 +70,11 @@ a.blue {
 a.purple {
 		color: #FF1493;
 	}
+.slogan {
+	text-align: center;
+	color: #F8F8FF;
+	font-family: "Courier New", Courier, monospace;
+}
+.humans {
+	color: #F8F8FF;
+}
