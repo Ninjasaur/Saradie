@@ -1,0 +1,21 @@
+# humanstxt.org
+
+# TEAM
+
+Me: Sadie Esch-Laurent                          
+Site: window.location.hostname                       
+Location: Michigan, US
+
+# THANKS
+
+W3Schools
+Stack Overflow
+Water
+                            
+# SITE
+                          
+Last update: 2019/01/31                          
+Standards: HTML5, CSS3                 
+Software: Sublime Text, GitHub Desktop
+   
+                        
