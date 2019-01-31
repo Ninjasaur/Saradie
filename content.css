@@ -56,3 +56,10 @@ h1.main {
 .humans {
 	color: #F8F8FF;
 }
+.video {
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+}
+a.grem {
+	color: #F8F8FF;
+}
