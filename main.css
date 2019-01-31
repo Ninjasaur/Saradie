@@ -68,4 +68,8 @@
 	color: #F8F8FF;
 	font-family: "Courier New", Courier, monospace;
 }
-
+.heart {
+  background-image: url("heart.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
