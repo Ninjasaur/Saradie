@@ -63,3 +63,10 @@ h1.main {
 a.grem {
 	color: #FF1493;
 }
+.trailer {
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a.trail {
+	color: #FF1493;
+}
