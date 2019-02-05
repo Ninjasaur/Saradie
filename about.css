@@ -1,6 +1,6 @@
    div {
         background-color: #D3D3D3;
-	height: 900px;
+	height: 1200px;
 	width: 1200px;
 	text-align: center;
 	margin: auto;
@@ -56,6 +56,12 @@ p.sadies {
 	    font-family:"Comic Sans MS", cursive, sans-serif;
 }
 p.ivys {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+h2.caleb {
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+p.calebs {
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
 a.pink  {
