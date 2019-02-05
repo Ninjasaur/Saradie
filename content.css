@@ -1,6 +1,6 @@
    div {
         background-color: #D3D3D3;
-	height: 1500px;
+	height: 1400px;
 	width: 1200px;
 	text-align: center;
 	margin: auto;
@@ -61,5 +61,12 @@ h1.main {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 a.trail {
+	color: #FF1493;
+}
+.grunch { 
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a.grinch {
 	color: #FF1493;
 }
